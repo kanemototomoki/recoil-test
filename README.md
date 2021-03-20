@@ -1,3 +1,11 @@
+# memo
+## 使ったコマンドとか
+reactアプリの作成(npm使用のオプション付き)
+```sh
+$ npx create-react-app <app-name> --use-npm
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
