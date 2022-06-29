@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Counter from '@src/components/organisms/Counter'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       }}
     >
       <h1>recoil test</h1>
+      <Counter />
     </main>
   )
 }
